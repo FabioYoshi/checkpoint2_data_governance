@@ -1,0 +1,27 @@
+Nome: Fábio Fadul Cunha Yoshida
+RM561530
+
+Requisitos de operações que o banco de dados deve proporcionar, listando para cada uma dessas funções, quais dados
+o sistema precisará guardar:
+
+Registro do total de lixo coletado no dia por caminhão:
+ -Quantidade de lixo coletada
+ -Locais onde o lixo foi coletado
+
+Cadastro dos caminhões:
+ -Nome dos motoristas
+ -Placa dos caminhões
+ -Modelo dos caminhões
+
+Cadastro de ruas:
+ -Nome das ruas
+ -Bairro
+ -Quantidade de casas ou prédios 
+
+Definição da rota que cada caminhão deve percorrer no dia:
+ -Distancia necessária para cada rota
+ -Quantidade de gasolina gasta
+
+Registro do total de lixo coletado por dia (todos os caminhões juntos) 
+ -Quantidade total de lixo coletado
+ -Quantidade total de quilometros percorridos
